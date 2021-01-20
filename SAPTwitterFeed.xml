@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- New document created with Notepad at Tue Jan 19 10:46:00 CDT 2021 -->
+
+
+ <Module>
+   <ModulePrefs title="SAP Twitter Timeline" description="SAP Twitter Timeline OpenSocial Gadget" author="David Gruehn" height="600">
+     <Link rel="Icon" href="twitter.PNG"/>
+     <Link rel="MediumIcon" href="MediumTwitter.png"/>
+     <Link rel="LargeIcon" href="LargeTwitter.png"/>
+   </ModulePrefs>
+   <Content type="url" href="index.html"/>
+ </Module>
+
+
