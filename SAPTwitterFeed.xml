@@ -11,11 +11,6 @@
     <Require feature="wave"/>
     <Require feature="osapi"/>
     <Require feature="dynamic-height"/>
-    <OAuth2>
-    <Service name="opensocial gadgets twitter">
-    <Token url="https://jam4.sapjam.com/api/v1/auth/token"/>
-    </Service>
-    </OAuth2>
    </ModulePrefs>
    <Content type="url" href="index.html"/>
  </Module>
